@@ -1,0 +1,33 @@
+.container {
+    height: 100%;
+    background-color: #C7C8CC;
+    form {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 3%;
+    }
+}
+.save {
+    button {
+        height: 65%;
+        margin-top: 7%;
+    }
+}
+.table {
+    display: flex;
+    justify-content: center;
+    margin-right: 5rem;
+    margin-top: 2%;
+    th {
+        padding-left: 5rem;
+    }
+    td {
+        padding-left: 10%;
+    }
+}
+.buttons {
+    button {
+        height: 65%;
+        margin-top: 3%;
+    }
+}
